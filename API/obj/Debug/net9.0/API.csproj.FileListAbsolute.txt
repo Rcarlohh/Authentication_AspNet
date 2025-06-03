@@ -342,3 +342,4 @@ C:\Users\range\Documents\Erik Mayo-Agosto\Microservicios.Auth\Microservicios.Aut
 C:\Users\range\Documents\Erik Mayo-Agosto\Microservicios.Auth\Microservicios.Auth\API\obj\Debug\net9.0\API.pdb
 C:\Users\range\Documents\Erik Mayo-Agosto\Microservicios.Auth\Microservicios.Auth\API\obj\Debug\net9.0\API.genruntimeconfig.cache
 C:\Users\range\Documents\Erik Mayo-Agosto\Microservicios.Auth\Microservicios.Auth\API\obj\Debug\net9.0\ref\API.dll
+C:\Users\range\Documents\Erik Mayo-Agosto\Microservicios.Auth\Microservicios.Auth\API\obj\Debug\net9.0\API.sourcelink.json
